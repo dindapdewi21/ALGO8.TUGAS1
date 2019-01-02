@@ -41,4 +41,4 @@
 
 
 
-![img]()
+![img](https://github.com/dindapuspitadewi/ALGO8.TUGAS1/blob/master/variabel%20global.jpg?raw=true)
